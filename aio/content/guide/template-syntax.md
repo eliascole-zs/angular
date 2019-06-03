@@ -616,7 +616,7 @@ With this broad view in mind, you're ready to look at binding types in detail.
 ## Property binding ( <span class="syntax">[property]</span> )
 
 Write a template **property binding** to set a property of a view element.
-The binding sets the property to the value of a [template expression](guide/template-syntax#template-expressions).
+The binding sets the property to the value of a [template statement](guide/template-syntax#template-statements).
 
 The most common property binding sets an element property to a component property value. An example is
 binding the `src` property of an image element to a component's `heroImageUrl` property:
